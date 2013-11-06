@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1295722797 source:d:\my dropbox\cxx\stl\stl_iterator_adapters_stream\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<iterator>
+

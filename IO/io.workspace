@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="io">
+		<Project filename="IO_ifstream/IO_ifstream.cbp" active="1" />
+		<Project filename="io_fstream_operator/io_fstream_operator.cbp" />
+		<Project filename="io_ostream/io_ostream.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

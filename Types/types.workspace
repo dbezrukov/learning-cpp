@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="types">
+		<Project filename="enum/enum.cbp" />
+		<Project filename="types_keywords/types_keywords.cbp" />
+		<Project filename="types_determination/types_determination.cbp" />
+		<Project filename="types_string_conv/types_string_conv.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>

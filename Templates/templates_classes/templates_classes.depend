@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1295448824 source:d:\my dropbox\cxx\stl\templates_classes\main.cpp
+	<iostream>
+
+1296408659 source:d:\my dropbox\cxx\templates\templates_classes\main.cpp
+	<iostream>
+	<stdlib.h>
+	"buffer.h"
+
+1296424219 d:\my dropbox\cxx\templates\templates_classes\buffer.h
+

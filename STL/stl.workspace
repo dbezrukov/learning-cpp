@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="stl">
+		<Project filename="stl_vector/stl_vector.cbp" />
+		<Project filename="stl_map/stl_map.cbp" />
+		<Project filename="stl_pair/stl_pair.cbp" />
+		<Project filename="stl_priority_queue/stl_priority_queue.cbp" />
+		<Project filename="stl_list/stl_list.cbp" />
+		<Project filename="stl_multimap/stl_multimap.cbp" />
+		<Project filename="stl_set/stl_set.cbp" active="1" />
+		<Project filename="stl_multiset/stl_multiset.cbp" />
+		<Project filename="stl_bitset/stl_bitset.cbp" />
+		<Project filename="stl_std_functors/stl_std_functors.cbp" />
+		<Project filename="stl_functor_adapters/stl_functor_adapters.cbp" />
+		<Project filename="stl_algorithm/stl_algorithm.cbp" />
+		<Project filename="stl_algorithm_utility/stl_algorithm_utility.cbp" />
+		<Project filename="stl_algorithm_nonmod_search/stl_algorithm_nonmod_search.cbp" />
+		<Project filename="stl_algorithm_nonmod_numerical/stl_algorithm_nonmod_numerical.cbp" />
+		<Project filename="stl_algorithm_nonmod_comparison/stl_algorithm_nonmod_comparison.cbp" />
+		<Project filename="stl_algorithm_nonmod_oper/stl_algorithm_nonmod_oper.cbp" />
+		<Project filename="stl_algorithm_mod/stl_algorithm_mod.cbp" />
+		<Project filename="stl_algorithm_sorting/stl_algorithm_sorting.cbp" />
+		<Project filename="stl_algorithm_set/stl_algorithm_set.cbp" />
+		<Project filename="stl_example_auditVoterRolls/stl_example_auditVoterRolls.cbp" />
+		<Project filename="stl_iterator_adapters_reverse/stl_iterator_adapters_reverse.cbp" />
+		<Project filename="stl_iterator_adapters_stream/stl_iterator_adapters_stream.cbp" />
+		<Project filename="stl_iterator_adapters_insert/stl_iterator_adapters_insert.cbp" />
+		<Project filename="stl_algorithm_example_find_all/stl_algorithm_example_find_all.cbp" />
+		<Project filename="stl_example_container_hashmap/stl_example_container_hashmap.cbp" />
+		<Project filename="stl_example_container_hashmap_stlport/stl_example_container_hashmap_stlport.cbp" />
+		<Project filename="stl_iterators/stl_iterators.cbp" />
+		<Project filename="stl_string/stl_string.cbp" />
+		<Project filename="stl_algorithm_nonmod_search_intersection/stl_algorithm_nonmod_search_intersection.cbp" />
+		<Project filename="stl_algorithm_mod_remove_copy_if/stl_algorithm_mod_remove_copy_if.cbp" />
+		<Project filename="stl_stack/stl_stack.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1295771287 source:d:\my dropbox\cxx\stl\stl_algorithm_example_find_all\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1300276096 source:d:\my dropbox\cxx\stl\stl_priority_queue\main.cpp
+	<iostream>
+	<queue>
+	<string>
+

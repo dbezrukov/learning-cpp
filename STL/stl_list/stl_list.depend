@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1292521728 source:d:\my dropbox\cxx\stl\stl_list\main.cpp
+	<iostream>
+	<list>
+	<vector>
+	<string>
+	<algorithm>
+	<stdexcept>
+

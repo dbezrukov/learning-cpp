@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1300872796 source:d:\my dropbox\cxx\pthreads\pthreads_semaphore\main.cpp
+	<iostream>
+	<sstream>
+	<pthread.h>
+	<semaphore.h>
+	<unistd.h>
+

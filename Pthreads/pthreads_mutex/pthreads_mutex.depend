@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1300869270 source:d:\my dropbox\cxx\pthreads\pthreads_mutex\main.cpp
+	<iostream>
+	<sstream>
+	<pthread.h>
+

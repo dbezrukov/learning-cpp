@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1294851208 source:d:\my dropbox\cxx\stl\stl_algorithm_nonmod_search\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1293114370 source:d:\my dropbox\cxx\stl\stl_multimap\main.cpp
+	<iostream>
+	<map>
+

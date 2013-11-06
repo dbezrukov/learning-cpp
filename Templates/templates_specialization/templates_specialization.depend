@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1295525303 source:d:\my dropbox\cxx\templates\templates_specialization\main.cpp
+	<iostream>
+	<typeinfo>
+	"math.h"
+	"strings.h"
+

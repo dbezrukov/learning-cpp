@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="pthreads">
+		<Project filename="pthreads_mutex/pthreads_mutex.cbp" />
+		<Project filename="pthreads_semaphore/pthreads_semaphore.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>

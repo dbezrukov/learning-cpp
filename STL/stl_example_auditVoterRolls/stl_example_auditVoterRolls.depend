@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1295186438 source:d:\my dropbox\cxx\stl\stl_example_auditvoterrolls\main.cpp
+	<iostream>
+	<map>
+	<list>
+	<algorithm>
+

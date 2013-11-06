@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="inheritance">
+		<Project filename="inheritance_inaccessible_base/inheritance_inaccessible_base.cbp" />
+		<Project filename="inheritance_method_overloading/inheritance_method_overloading.cbp" />
+		<Project filename="inheritance_virtual_base/inheritance_virtual_base.cbp" />
+		<Project filename="inheritance_access_level/inheritance_access_level.cbp" />
+		<Project filename="inheritance_virtual_base_delegate/inheritance_virtual_base_delegate.cbp" />
+		<Project filename="inheritance_access_level_vs_friends/inheritance_access_level_vs_friends.cbp" />
+		<Project filename="inheritance_conversion/inheritance_conversion.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>

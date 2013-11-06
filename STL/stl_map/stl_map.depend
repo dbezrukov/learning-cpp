@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1292537015 source:d:\my dropbox\cxx\stl\stl_map\main.cpp
+	<iostream>
+	<map>
+

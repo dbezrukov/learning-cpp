@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="boost">
+		<Project filename="boost_shared_poiners_scoped_ptr/boost_shared_poiners_scoped_ptr.cbp" />
+		<Project filename="boost_shared_pointers_shared_ptr/boost_shared_pointers_shared_ptr.cbp" />
+		<Project filename="boost_function_and_bind/boost_function_and_bind.cbp" />
+		<Project filename="boost_thread_management/boost_thread_management.cbp" />
+		<Project filename="boost_thread_management_obj_method/boost_thread_management_obj_method.cbp" />
+		<Project filename="boost_thread_mutex/boost_thread_mutex.cbp" />
+		<Project filename="bost_thread_recursive_mutex/bost_thread_recursive_mutex.cbp" />
+		<Project filename="boost_thread_conditional_variable/boost_thread_conditional_variable.cbp" />
+		<Project filename="boost_thread_cond_var_pc/boost_thread_cond_var_pc.cbp" />
+		<Project filename="boost_thread_cond_var_pc_queue/boost_thread_cond_var_pc_queue.cbp" />
+		<Project filename="boost_asio_sync_tcp_client/boost_asio_sync_tcp_client.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>

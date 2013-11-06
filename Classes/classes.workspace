@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="classes">
+		<Project filename="classes_this/classes_this.cbp" />
+		<Project filename="classes_static_data_member/classes_static_data_member.cbp" />
+		<Project filename="classes_assignment/classes_assignment.cbp" />
+		<Project filename="classes_pointer_to_nonstatic_member_function/classes_pointer_to_nonstatic_member_function.cbp" />
+		<Project filename="classes_functor/classes_functor.cbp" />
+		<Project filename="classes_operators_overloading/classes_operators_overloading.cbp" />
+		<Project filename="classes_ctor/classes_ctor.cbp" />
+		<Project filename="classes_operators_type_conversion/classes_operators_type_conversion.cbp" />
+		<Project filename="classes_operators_assignment_test/classes_operators_assignment_test.cbp" />
+		<Project filename="classes_operators_assignment_test_2/classes_operators_assignment_test_2.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>

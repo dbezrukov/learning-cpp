@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1293483333 source:d:\my dropbox\cxx\classes\classes_functor\main.cpp
+	<iostream>
+	<algorithm>
+

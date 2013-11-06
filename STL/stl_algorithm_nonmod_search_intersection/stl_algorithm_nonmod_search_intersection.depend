@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1299660471 source:d:\my dropbox\cxx\stl\stl_algorithm_nonmod_search_intersection\main.cpp
+	<iostream>
+	<algorithm>
+

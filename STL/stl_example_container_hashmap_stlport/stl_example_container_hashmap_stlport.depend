@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1296407287 source:d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\hash_iterator.cpp
+	"hash_iterator.h"
+
+1296425632 d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\hash_iterator.h
+	<list>
+
+1296425544 source:d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\hashmap.cpp
+
+1296431113 d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\hashmap.h
+	<vector>
+	"default_hash.h"
+	"hash_iterator.h"
+
+1296425346 d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\default_hash.h
+	<stdexcept>
+
+1296425891 source:d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\main.cpp
+	<iostream>
+	"hashmap.h"
+
+1296425353 source:d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\default_hash.cpp
+	"default_hash.h"
+
+1296424999 d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\default_hash.cpp
+
+1296425527 d:\my dropbox\cxx\stl\stl_example_container_hashmap_stlport\hashmap.cpp
+

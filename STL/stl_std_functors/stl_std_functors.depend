@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1294829621 source:d:\my dropbox\cxx\stl\stl_std_functors\main.cpp
+	<iostream>
+	<algorithm>
+	<functional>
+	<queue>
+	<list>
+

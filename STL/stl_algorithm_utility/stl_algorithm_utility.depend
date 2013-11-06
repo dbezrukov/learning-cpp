@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1294831753 source:d:\my dropbox\cxx\stl\stl_algorithm_utility\main.cpp
+	<iostream>
+	<algorithm>
+

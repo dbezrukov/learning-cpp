@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Templates">
+		<Project filename="templates_specialization/templates_specialization.cbp" active="1" />
+		<Project filename="templates_functions/templates_functions.cbp" />
+		<Project filename="templates_classes/templates_classes.cbp" />
+		<Project filename="templates_inheritance/templates_inheritance.cbp" />
+		<Project filename="templates_function_declaration/templates_function_declaration.cbp" />
+		<Project filename="templates_instantiation/templates_instantiation.cbp" />
+		<Project filename="templates_instantiation_2/templates_instantiation_2.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

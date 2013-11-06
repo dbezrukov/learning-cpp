@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1300284190 source:d:\my dropbox\cxx\stl\stl_set\main.cpp
+	<iostream>
+	<set>
+	<list>
+

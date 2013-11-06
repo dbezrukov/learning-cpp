@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="exceptions">
+		<Project filename="exceptions_throwlists/exceptions_throwlists.cbp" />
+		<Project filename="exceptions_loose_class_consciousness/exceptions_loose_class_consciousness.cbp" />
+		<Project filename="exceptions_throw/exceptions_throw.cbp" active="1" />
+	</Workspace>
+</CodeBlocks_workspace_file>
