@@ -4,5 +4,10 @@ A set of C++ learning checkpoints.
 Just run the code snippets in C++ Shell, http://cpp.sh.
 
 Sources: 
+- Professional C++,  Nicholas Solter, Scott Kleper
 - Brainbench C++ tests
 - Boost documentation
+
+## Diagrams
+### STL containers
+![STL containers](https://res.cloudinary.com/app-core/image/upload/v1567583833/dev/stl-containers.png)
