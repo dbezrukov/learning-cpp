@@ -10,4 +10,4 @@ Sources:
 
 ## Diagrams
 ### STL containers
-![STL containers](https://res.cloudinary.com/app-core/image/upload/v1567583833/dev/stl-containers.png)
+![STL containers](https://res.cloudinary.com/app-core/image/upload/v1567584586/dev/stl-containers.png)
